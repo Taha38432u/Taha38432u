@@ -1,5 +1,13 @@
 # 💫 About Me:
-Full Stack Developer focused on building scalable web applications with Next.js, React, TypeScript, Node.js, and PostgreSQL. Interested in backend architecture, APIs, real-time systems, distributed applications, and developer tooling.
+Full Stack Developer with 1.5+ years of experience building production web applications with Next.js, React, TypeScript, Node.js, and PostgreSQL.
+
+My work includes SaaS platforms, role-based systems, multi-tenant applications, payment integrations, approval workflows, CMS platforms, and backend APIs.
+
+Some of my professional projects are maintained in private repositories due to client and company ownership. I've documented selected projects, features, and technical work on my portfolio:
+
+🔗 Portfolio: https://taha-rasheed-portfolio.vercel.app/projects
+
+Interested in backend architecture, APIs, real-time systems, distributed applications, and developer tooling.
 
 
 ## 🌐 Socials:
